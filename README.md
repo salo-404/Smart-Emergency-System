@@ -1,5 +1,4 @@
-# Smart-Emergency-System
-A C# WinForms emergency dispatch simulation system that manages emergency requests, assigns responder units, tracks missions, and demonstrates async programming, locking, and semaphore-based concurrency control.
+
 # Emergency Response Dispatch System
 
 A C# Windows Forms desktop application that simulates an emergency dispatch center for managing emergency cases, assigning responder units, and tracking mission progress.
