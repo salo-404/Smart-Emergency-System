@@ -26,6 +26,12 @@ The project demonstrates object-oriented programming, asynchronous programming, 
 - Use locking and `SemaphoreSlim` to handle safe concurrent dispatch operations
 
 ## Screenshots
+<img width="1540" height="885" alt="image" src="https://github.com/user-attachments/assets/f691c9d1-4a9e-4bc0-8afb-9afb31bd6e49" />
+
+<img width="1646" height="947" alt="image" src="https://github.com/user-attachments/assets/e6854ec8-a4c5-4409-9042-5002655e4082" />
+
+
+
 
 
 ## Technologies Used
